@@ -28,6 +28,7 @@ share/python-wheels/
 MANIFEST
 const.py
 test.py
+file-list.json
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
