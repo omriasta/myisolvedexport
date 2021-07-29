@@ -7,4 +7,5 @@ After that, install the requirements.txt
 You may need to install some packages for pyautogui which is used to send hotkeys and grab some image files.
 
 params on line 124 of export.py is how you filter the list of employees to go over for the export
+
 Copy const.py.template to const.py and fill out username and password
